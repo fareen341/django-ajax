@@ -1,1 +1,1 @@
-# django-ajax
+Crud operation using ajax
